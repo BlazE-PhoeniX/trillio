@@ -1,0 +1,25 @@
+//sass variables
+$box-shadow-large: 0 2rem 4.5rem rgba(#000, .3);
+$box-shadow-small: 0 0rem 2rem rgba(#000, .1);
+$largest-bp: 75em; //1200
+$large-bp: 62.5em; //1000
+$medium-bp: 56.25em; // 900
+$small-bp: 40.625em; // 650
+$smallest-bp: 31.25em;
+
+
+:root {
+    --color-redishbrown-1: #FF3366;
+    --color-redishbrown-2: #eb2f64;
+    --color-redishbrown-3: #BA265D;
+
+    --color-lightgrey-1: #faf9f9;
+    --color-lightgrey-2: #f4f2f2;
+    --color-lightgrey-3: #f0eeee;
+    --color-lightgrey-4: #ccc;
+
+    --color-darkgrey-1: #999;
+    --color-darkgrey-2: #777;
+    --color-darkgrey-3: #333;
+
+}

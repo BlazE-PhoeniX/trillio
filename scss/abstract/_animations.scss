@@ -1,0 +1,16 @@
+@keyframes pulsate {
+    0% {
+        transform: scaleX(1);
+        box-shadow: none;
+    }
+
+    50% {
+        transform: scaleX(1.1);
+        box-shadow: $box-shadow-small;
+    }
+
+    100% {
+        transform: scaleX(1);
+        box-shadow: none;
+    }
+}
